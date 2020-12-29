@@ -14,3 +14,6 @@ LinkedIn project video: https://www.linkedin.com/feed/update/urn:li:ugcPost:6749
 
 I still like the first one since was my main idea, but you gotta know when you are defeated.
 
+## Gif
+
+![](ezgif.com-video-to-gif.gif)
