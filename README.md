@@ -5,11 +5,11 @@ LinkedIn project video: https://www.linkedin.com/feed/update/urn:li:ugcPost:6749
 ## Well, the old pipeline...
 1. Facial keypoints estimator (dlib 68 points detector).
 2. Fine grained image depth estimator.
-3. A little of geometry magic for visualization.
+3. A little of Open3D geometry magic for visualization.
 
 ## The new one!
 1. Turns out the mediapipe facial keypoints estimator estimates waaay more keypoints and its depth .......
-2. A little of geometry magic for visualization.
+2. A little of Open3D geometry magic for visualization.
 
 
 I still like the first one since was my main idea, but you gotta know when you are defeated.
