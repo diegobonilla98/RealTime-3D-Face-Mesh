@@ -1,5 +1,6 @@
 # RealTime-3D-Face-Mesh
 A better approach following one of my classic repos 🙄
+LinkedIn project video: https://www.linkedin.com/feed/update/urn:li:ugcPost:6749606044516802560/
 
 ## Well, the old pipeline...
 1. Facial keypoints estimator (dlib 68 points detector).
